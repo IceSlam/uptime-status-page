@@ -1,2 +1,2 @@
-# uptime-status-page
+# Uptime Status Page
 Uptime Status page for ISUpNGN instances
